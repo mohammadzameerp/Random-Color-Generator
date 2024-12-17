@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: black;
+  color: white;
+  height: 100%;
+}
+button {
+  background-color: #fcfcfc;
+  color: rgb(0, 0, 0);
+  border-radius: 0.6rem;
+  height: 2rem;
+  padding: 0.5rem;
+}
+h1 {
+  font-size: 4vw;
+}
+p {
+  font-size: 1vw;
+}
+
+div {
+  height: 30vh;
+  width: 70vw;
+  border: 3px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1rem;
+}
